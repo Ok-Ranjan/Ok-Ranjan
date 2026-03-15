@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ranjan Kumar</h1>
 <h3 align="center">
-Aspiring Software Engineer | Machine Learning Learner | Passionate Coder <br/>
+Aspiring AI Engineer | Software Engineer | Passionate Coder <br/>
 B.Tech CSE (2023–2027)
 </h3>
 
@@ -46,7 +46,7 @@ A structured repository documenting my step-by-step journey in Machine Learning,
 - Feature selection (basics)
 
 🔗 **Repository Link:**  
-👉 <a href="https://github.com/Ok-Ranjan/machine-learning" target="_blank">
+👉 <a href="https://github.com/Ok-Ranjan/machine-learning-learning" target="_blank">
 Machine Learning Repository
 </a>
 
